@@ -1,0 +1,27 @@
+p {
+	border: 2px solid Tomato;
+	margin: 50px;
+}
+
+a:link {
+	color: Tomato;
+        text-decoration: underline;
+	background-color: transparent;
+	font-family: verdana;
+
+}
+ a:visited {
+	color: purple;
+	text-decoration: underline;
+	background-color: transparent;
+	font-family: Calibri;
+	font-style: italic;
+
+
+}
+
+a:hover {
+	color:pink;
+	background-color: transparent;
+	font-family: verdana;
+}
